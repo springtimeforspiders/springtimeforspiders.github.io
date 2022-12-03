@@ -11,6 +11,12 @@ footer {
     text-align: center;
 }
 
+.top img {
+    max-width: 100%;
+    min-width: 300px;
+    height: auto;
+}
+
 .comic-container {
     text-align: center;
 }
