@@ -2,6 +2,11 @@ body {
     background-color: white;
     text-align: center;
   }
+  
+p {
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+}
 
 footer {
     font-size: 10;
